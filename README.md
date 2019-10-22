@@ -51,11 +51,10 @@ swapped the USB / Ethernet positions, implying that [only] the lower holes now n
 
 
 ### Assembly
-<a target="_blank" rel="noopener noreferrer" href="/csindle/ogn-hardware/blob/master/assy/all.png">
-  <img src="/csindle/ogn-hardware/raw/master/assy/all.png" style="max-width:100%;" height="800">
-</a>
 
+Raspberry Pi on backplane installed in enclosure.
 
+<img src="assy/all.png" height="800">
 
 Parts not shown in CAD drawing:
 
@@ -71,10 +70,7 @@ Assembling and securing the internal components.
 
 ### Receiver Mounted
 Final installation, as high up as possible.
-
-<a target="_blank" rel="noopener noreferrer" href="/csindle/ogn-hardware/blob/master/assy/rx.jpg">
-  <img src="/csindle/ogn-hardware/raw/master/assy/rx.jpg" style="max-width:100%;" height="800">
-</a>
+<img src="assy/rx.jpg" height="800">
 
 
 ### Thanks
