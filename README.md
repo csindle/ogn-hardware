@@ -1,21 +1,21 @@
-## Open Glider Network receiver station
+## Open Glider Network Receiver Station
 
 This project shows a concrete implementation of the ideas and goals on the 
-Open Glider Network wiki page discussing how to build an 
+(Open Glider Network)[https://www.glidernet.org/] wiki page discussing how to build an 
 [OGN receiver](http://wiki.glidernet.org/ogn-receiver-hardware-and-software#hardware).
 
-Below is my current reference design which incorporates the learnings of more than 12 receiver-years
+Below is my current reference design which incorporates more than 12 receiver-years
 worth of experience.
-The receivers are located outdoors in the moderately harsh environment of the Western Cape,
+The receivers are located outdoors, in the moderately harsh environment of the Western Cape,
 South Africa.
 
-### Hardware
+## Hardware
 
 The CAD file for the below diagrams are in their respective directories.
 
 All dimensions are in millimetres.
 
-#### Bill of Materials
+### Bill of Materials
 
 Item   | Description
 ---: | :---
@@ -32,27 +32,27 @@ Ethernet cable | Outdoor rating
 cable/zip-ties | width less than 5 mm
 
 
-#### Backplane
+### Backplane
 
 ##### Material: ~3 mm plywood
 
 The backplane is used to mount the Raspberry Pi and other components, mainly for strain relief, and durability.
 One may be tempted to drill only those holes that are immediately required, by in my experience, a configurable
 backplane, decoupled from the immediate components is a better idea.  For example, the Raspberry Pi 4 upgrade 
-swapped the USB / Ethernet positions, implying that [only] the lower holes now need to be mirror imaged.
+swapped the USB / Ethernet positions, implying that [only] the lower holes now need to be mirrored.
 
 ![PVC pipe enclosure](backplane/backplane.png)
 
 
-#### Weather-proof Outdoor Enclosure
-
+### Weather-proof Outdoor Enclosure
 ##### Material: white, 110 mm PVC pipe, and matching COTS fittings.
 
 ![PVC pipe enclosure](enclosure/enclosure.png)
 
-#### Assembly
 
-![Assembled](assy/all.png)
+### Assembly
+
+![Assembled](assy/all.png | height=200)
 
 Parts not shown in CAD drawing:
 
@@ -62,10 +62,19 @@ Parts not shown in CAD drawing:
 * Male N-type to male SMA connector (one piece, not a pig-tail)
 * Antenna cable
 
-##### Receiver's Internal Components
+### Receiver's Internal Components
+Assembling and securing the internal components.
 ![Receiver components](assy/rx_int.jpg)
 
-##### Receiver's Mounted
+### Receiver Mounted
+Final installation, as high up as possible.
 ![Receiver mounted](assy/rx.jpg)
 
+
+### Thanks to
+
+[PicoJump](https://www.picojump.com) for providing remote access and up-time monitoring.
+
+
+Please contact me or open an issue if you have any questions or suggestions.
 
