@@ -4,13 +4,13 @@ This project shows a concrete implementation of the ideas and goals on the
 [Open Glider Network](https://www.glidernet.org/) wiki page discussing how to build an 
 [OGN receiver](http://wiki.glidernet.org/ogn-receiver-hardware-and-software#hardware).
 
-Below is my current reference design which incorporates more than 12 receiver-years
+Below is my current reference design which incorporates more than 12 receiver-years'
 worth of experience.
 The receivers are located outdoors, in the moderately harsh environment of the Western Cape,
 South Africa.
 
 
-The CAD file for the below diagrams are in their respective directories.
+The CAD files for the below diagrams are in their respective directories.
 
 All dimensions are in millimetres.
 
@@ -51,8 +51,8 @@ Other rigid, non-conductive material may be used instead of wood.
 
 ![PVC pipe enclosure](enclosure/enclosure.png)
 
-Unless the end-cap is holding up the enclosure (on, say, an internal mounting), it stays on tighly enough 
-without adhesive, and makes future upgrades easier.
+Unless the end-cap is holding up the enclosure (on, say, an internal mounting),
+it stays on tightly enough without adhesive being required, which makes future upgrades easier.
 
 
 # Assembly
