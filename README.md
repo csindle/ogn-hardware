@@ -1,7 +1,7 @@
 ## Open Glider Network Receiver Station
 
 This project shows a concrete implementation of the ideas and goals on the 
-(Open Glider Network)[https://www.glidernet.org/] wiki page discussing how to build an 
+[Open Glider Network](https://www.glidernet.org/) wiki page discussing how to build an 
 [OGN receiver](http://wiki.glidernet.org/ogn-receiver-hardware-and-software#hardware).
 
 Below is my current reference design which incorporates more than 12 receiver-years
@@ -52,7 +52,8 @@ swapped the USB / Ethernet positions, implying that [only] the lower holes now n
 
 ### Assembly
 
-![Assembled](assy/all.png | height=200)
+![Assembled](assy/all.png)
+<img src="assy/all.png" height="200">
 
 Parts not shown in CAD drawing:
 
@@ -71,10 +72,10 @@ Final installation, as high up as possible.
 ![Receiver mounted](assy/rx.jpg)
 
 
-### Thanks to
+### Thanks
 
-[PicoJump](https://www.picojump.com) for providing remote access and up-time monitoring.
+To [PicoJump](https://www.picojump.com) for providing remote access and up-time monitoring.
 
 
-Please contact me or open an issue if you have any questions or suggestions.
+Please contact me, or open an issue, if you have any questions or suggestions.
 
