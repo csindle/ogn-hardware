@@ -1,4 +1,4 @@
-# Open Glider Network Receiver Station Hardware
+# Open Glider Network Receiver Station Hardware (PipePi)
 
 This project shows a concrete implementation of the ideas and goals on the 
 [Open Glider Network](https://www.glidernet.org/) wiki page discussing how to build an 
