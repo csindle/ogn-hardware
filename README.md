@@ -2,10 +2,11 @@
 
 This project shows a concrete implementation of the ideas and goals on the 
 Open Glider Network wiki page discussing how to build an 
-[OGN recevier](http://wiki.glidernet.org/ogn-receiver-hardware-and-software#hardware).
+[OGN receiver](http://wiki.glidernet.org/ogn-receiver-hardware-and-software#hardware).
 
-It shows my current state-of-the-art reference design, which incorporate the learnings of
-running >12 receiver-years experience in the moderately harsh environment of the Western Cape,
+Below is my current reference design which incorporates the learnings of more than 12 receiver-years
+worth of experience.
+The receivers are located outdoors in the moderately harsh environment of the Western Cape,
 South Africa.
 
 ### Hardware
@@ -14,7 +15,7 @@ The CAD file for the below diagrams are in their respective directories.
 
 All dimensions are in millimetres.
 
-### BOM
+#### Bill of Materials
 
 Item   | Description
 ---: | :---
@@ -53,10 +54,18 @@ swapped the USB / Ethernet positions, implying that [only] the lower holes now n
 
 ![Assembled](assy/all.png)
 
-Parts not shown:
+Parts not shown in CAD drawing:
 
 * PoE splitter, with 5V USB power output (RPi4 requires Type-C plug, the rest, micro-USB)
 * Ethernet cable
 * FlightAware USB RTL SDR
 * Male N-type to male SMA connector (one piece, not a pig-tail)
 * Antenna cable
+
+##### Receiver's Internal Components
+![Receiver components](assy/rx_int.jpg)
+
+##### Receiver's Mounted
+![Receiver mounted](assy/rx.jpg)
+
+
