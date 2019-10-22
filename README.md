@@ -51,9 +51,11 @@ swapped the USB / Ethernet positions, implying that [only] the lower holes now n
 
 
 ### Assembly
+<a target="_blank" rel="noopener noreferrer" href="/csindle/ogn-hardware/blob/master/assy/all.png">
+  <img src="/csindle/ogn-hardware/raw/master/assy/all.png" style="max-width:100%;" height="800">
+</a>
 
-![Assembled](assy/all.png)
-<img src="assy/all.png" height="200">
+
 
 Parts not shown in CAD drawing:
 
@@ -69,7 +71,10 @@ Assembling and securing the internal components.
 
 ### Receiver Mounted
 Final installation, as high up as possible.
-![Receiver mounted](assy/rx.jpg)
+
+<a target="_blank" rel="noopener noreferrer" href="/csindle/ogn-hardware/blob/master/assy/rx.jpg">
+  <img src="/csindle/ogn-hardware/raw/master/assy/rx.jpg" style="max-width:100%;" height="800">
+</a>
 
 
 ### Thanks
