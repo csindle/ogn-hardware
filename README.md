@@ -11,10 +11,10 @@ South Africa.
 
 #### Goals:
 
-1. **Far Range** Minimise Radio Frequency (RF) path losses, and noise introduction.
-1. **Affordable** Few, low-cost components, and some cheap building supplies.
-1. **Simple** Largely plug-and-play components.  No RF soldering, or coax-ground loops.
-1. **Reliable**  Standards compliant electronics, DIY casing.
+1. **Far range:** Minimise Radio Frequency (RF) path losses, and noise introduction.
+1. **Affordable:** Few, low-cost components, and some cheap building supplies.
+1. **Simple:** Largely plug-and-play components.  No RF soldering, or coax-ground loops.
+1. **Reliable:**  Standards compliant electronics, DIY casing.
 
 
 The CAD files for the below diagrams are in their respective directories.
