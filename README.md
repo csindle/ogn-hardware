@@ -42,8 +42,9 @@ Cable/zip-ties | width less than 5 mm
 
 ##### Material: ~3 mm plywood, with ~5 mm drilled holes.
 
-The backplane is used to mount the Raspberry Pi and other components on.
+The Raspberry Pi and other components are mounted upon the backplane.
 It provides strain relief, and durability due to its rigidity.
+
 One may be tempted to drill only those holes that are immediately required, by in my experience,
 a re-configurable backplane, decoupled from the immediate components choice, is a better long-term solution.
 For example, the Raspberry Pi 4 upgrade swapped the USB and Ethernet positions,
@@ -54,7 +55,7 @@ Other rigid, non-conductive material may be used instead of wood.
 
 
 # Weather-proof Outdoor Enclosure
-##### Material: white, 110 mm PVC pipe, and matching commercial, off-the-shelf plumbing fittings.
+##### Material: white, 110 mm PVC pipe, and matching commercial, off-the-shelf plumbing end-cap.
 
 ![PVC pipe enclosure](enclosure/enclosure.png)
 
@@ -64,7 +65,7 @@ it stays on tightly enough without adhesive being required, which makes future u
 
 # Assembly
 
-Raspberry Pi on backplane installed in enclosure.
+Raspberry Pi cable-tied to backplane and installed within the enclosure.
 
 <img src="assy/all.png" height="800">
 
