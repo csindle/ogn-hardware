@@ -45,10 +45,12 @@ Cable/zip-ties | width less than 5 mm
 The Raspberry Pi and other components are mounted upon the backplane.
 It provides strain relief, and durability due to its rigidity.
 
-One may be tempted to drill only those holes that are immediately required, by in my experience,
+One may be tempted to drill only those holes that are immediately required, but in my experience,
 a re-configurable backplane, decoupled from the immediate components choice, is a better long-term solution.
 For example, the Raspberry Pi 4 upgrade swapped the USB and Ethernet positions,
 implying that the lower holes [only!] now need to be mirrored.
+A drill shouldn't be needed to swap out a RPi3 for a RPi4.
+
 Other rigid, non-conductive material may be used instead of wood.
 
 ![Wooden backplane](backplane/backplane.png)
